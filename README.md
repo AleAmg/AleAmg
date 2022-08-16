@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://alexis-giozza.vercel.app/](https://alexis-giozza.vercel.app/)
 
-- 💬 Ask me about **JavaScript, React.JS,Node.JS and CSS**
+- 💬 Ask me about **JavaScript, React.JS, Node.JS and CSS**
 
 - 📫 How to reach me **alexisgiozza@gmail.com**
 
