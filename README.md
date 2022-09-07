@@ -37,6 +37,9 @@
     <img src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white" />
     <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" />
     <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
+    <img src="https://img.shields.io/badge/versel-%23316192.svg?style=for-the-badge&logo=vercel&logoColor=white" />
+    <img src="https://img.shields.io/badge/heroku-%23214072.svg?style=for-the-badge&logo=heroku&logoColor=white" />
+    
   </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aleamg&show_icons=true&locale=en&layout=compact" alt="aleamg" /></p>
